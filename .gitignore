@@ -1,3 +1,4 @@
 secret_solution.py
 data/test.csv
 venv/
+*.pyc
