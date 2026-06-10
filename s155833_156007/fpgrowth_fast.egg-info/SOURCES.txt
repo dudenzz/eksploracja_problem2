@@ -1,0 +1,8 @@
+setup.py
+wrapper.cpp
+fpgrowth_fast.egg-info/PKG-INFO
+fpgrowth_fast.egg-info/SOURCES.txt
+fpgrowth_fast.egg-info/dependency_links.txt
+fpgrowth_fast.egg-info/not-zip-safe
+fpgrowth_fast.egg-info/requires.txt
+fpgrowth_fast.egg-info/top_level.txt
