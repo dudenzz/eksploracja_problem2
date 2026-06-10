@@ -35,11 +35,12 @@ Metoda powinna zwrócić listę reguł postaci:
 A=>B, support = s, confidence = c
 
 zakodowanych jako słownik:
-```{
+```
+{
     'A' : List,
     'B' : List,
     'supp' : number,
     'conf' : number
-
-}```
+}
+```
 
